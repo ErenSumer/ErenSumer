@@ -3,14 +3,14 @@
 🎓 I have 5 years of experience in the field. From designing robust architectures to writing clean and maintainable code, I enjoy every aspect of the development process.
 
 💡 My areas of expertise include:
--Python
--Ruby
--Scala
--Java
--C
--C#
--Javascript
--Web Designing
+Python,
+Ruby,
+Scala,
+Java,
+C,
+C#,
+Javascript and
+Web Designing
 I'm always eager to learn and stay up-to-date with the latest industry trends and advancements.
 
 
