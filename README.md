@@ -10,7 +10,7 @@ Java,
 C,
 C#,
 Javascript and
-Web Designing
+Web Designing.
 I'm always eager to learn and stay up-to-date with the latest industry trends and advancements.
 
 
