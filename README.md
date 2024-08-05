@@ -1,4 +1,4 @@
-<img align="center">[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdOix5dHF7ki2RxuDJw8rD6-MYs2IiMLY1uw&s)](https://erensumerportfolio.netlify.app/)</img>
+
 <h1 align="center">Hi 👋, I'm Eren Sümer</h1>
 <h3 align="center">A full stack developer from Türkiye</h3>
 
